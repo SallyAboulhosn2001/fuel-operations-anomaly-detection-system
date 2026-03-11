@@ -1,0 +1,19 @@
+Median vs Mean
+
+Standard deviation
+
+MAD (Median Absolute Deviation)
+
+Z-score
+
+Robust Z-score
+
+Outlier detection
+
+Distribution sensitivity
+
+Thresholding vs statistical detection
+Autoencoder
+
+joblib, os libraries
+pkl file
