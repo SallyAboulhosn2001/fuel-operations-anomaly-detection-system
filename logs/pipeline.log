@@ -21,3 +21,674 @@
 2026-03-11 23:22:13,441 - INFO - Isolation Forest executed
 2026-03-11 23:22:13,442 - INFO - Risk classification completed
 2026-03-11 23:22:13,442 - INFO - Pipeline completed successfully
+2026-03-12 18:39:57,520 - INFO - Pipeline started
+2026-03-12 18:39:57,553 - INFO - Pump data simulated
+2026-03-12 18:39:57,563 - INFO - Daily fuel aggregated
+2026-03-12 18:39:57,601 - INFO - Operational components simulated
+2026-03-12 18:39:57,609 - INFO - Expected cash computed
+2026-03-12 18:39:57,610 - INFO - Actual cash simulated
+2026-03-12 18:39:57,614 - INFO - Statistical anomalies detected
+2026-03-12 18:39:57,616 - INFO - Features engineered
+2026-03-12 18:39:58,872 - INFO - Isolation Forest executed
+2026-03-12 18:39:58,874 - INFO - Risk classification completed
+2026-03-12 18:39:58,891 - INFO - Pipeline completed successfully
+2026-03-12 22:16:49,452 - INFO - Pipeline started
+2026-03-12 22:16:49,484 - INFO - Pump data simulated
+2026-03-12 22:16:49,492 - INFO - Daily fuel aggregated
+2026-03-12 22:16:49,536 - INFO - Operational components simulated
+2026-03-12 22:16:49,548 - INFO - Expected cash computed
+2026-03-12 22:16:49,549 - INFO - Actual cash simulated
+2026-03-12 22:16:49,551 - INFO - Statistical anomalies detected
+2026-03-12 22:16:49,552 - INFO - Features engineered
+2026-03-12 22:16:50,923 - INFO - Isolation Forest executed
+2026-03-12 22:16:50,925 - INFO - Risk classification completed
+2026-03-12 22:16:50,943 - INFO - Pipeline completed successfully
+2026-03-12 22:16:56,409 - INFO - Pipeline started
+2026-03-12 22:16:56,430 - INFO - Pump data simulated
+2026-03-12 22:16:56,432 - INFO - Daily fuel aggregated
+2026-03-12 22:16:56,501 - INFO - Operational components simulated
+2026-03-12 22:16:56,519 - INFO - Expected cash computed
+2026-03-12 22:16:56,521 - INFO - Actual cash simulated
+2026-03-12 22:16:56,523 - INFO - Statistical anomalies detected
+2026-03-12 22:16:56,525 - INFO - Features engineered
+2026-03-12 22:16:57,888 - INFO - Isolation Forest executed
+2026-03-12 22:16:57,892 - INFO - Risk classification completed
+2026-03-12 22:16:57,909 - INFO - Pipeline completed successfully
+2026-03-12 22:28:52,105 - INFO - Pipeline started
+2026-03-12 22:28:52,128 - INFO - Pump data simulated
+2026-03-12 22:28:52,134 - INFO - Daily fuel aggregated
+2026-03-12 22:28:52,179 - INFO - Operational components simulated
+2026-03-12 22:28:52,189 - INFO - Expected cash computed
+2026-03-12 22:28:52,190 - INFO - Actual cash simulated
+2026-03-12 22:28:52,192 - INFO - Statistical anomalies detected
+2026-03-12 22:28:52,193 - INFO - Features engineered
+2026-03-12 22:28:53,537 - INFO - Isolation Forest executed
+2026-03-12 22:28:53,539 - INFO - Risk classification completed
+2026-03-12 22:28:53,558 - INFO - Pipeline completed successfully
+2026-03-12 22:46:09,388 - INFO - Pipeline started
+2026-03-12 22:46:09,415 - INFO - Pump data simulated
+2026-03-12 22:46:09,417 - INFO - Daily fuel aggregated
+2026-03-12 22:46:09,454 - INFO - Operational components simulated
+2026-03-12 22:46:09,463 - INFO - Expected cash computed
+2026-03-12 22:46:09,464 - INFO - Actual cash simulated
+2026-03-12 22:46:09,465 - INFO - Statistical anomalies detected
+2026-03-12 22:46:09,466 - INFO - Features engineered
+2026-03-12 22:46:11,873 - INFO - Isolation Forest executed
+2026-03-12 22:46:11,881 - INFO - Risk classification completed
+2026-03-12 22:46:11,921 - INFO - Pipeline completed successfully
+2026-03-12 22:52:12,320 - INFO - Pipeline started
+2026-03-12 22:52:12,367 - INFO - Pump data simulated
+2026-03-12 22:52:12,376 - INFO - Daily fuel aggregated
+2026-03-12 22:52:12,461 - INFO - Operational components simulated
+2026-03-12 22:52:12,484 - INFO - Expected cash computed
+2026-03-12 22:52:12,487 - INFO - Actual cash simulated
+2026-03-12 22:52:12,491 - INFO - Statistical anomalies detected
+2026-03-12 22:52:12,495 - INFO - Features engineered
+2026-03-12 22:52:15,498 - INFO - Isolation Forest executed
+2026-03-12 22:52:15,503 - INFO - Risk classification completed
+2026-03-12 22:52:15,531 - INFO - Pipeline completed successfully
+2026-03-12 23:05:46,692 - INFO - Pipeline started
+2026-03-12 23:05:46,729 - INFO - Pump data simulated
+2026-03-12 23:05:46,735 - INFO - Daily fuel aggregated
+2026-03-12 23:05:46,805 - INFO - Operational components simulated
+2026-03-12 23:05:46,821 - INFO - Expected cash computed
+2026-03-12 23:05:46,823 - INFO - Actual cash simulated
+2026-03-12 23:05:46,826 - INFO - Statistical anomalies detected
+2026-03-12 23:05:46,829 - INFO - Features engineered
+2026-03-12 23:05:49,143 - INFO - Isolation Forest executed
+2026-03-12 23:05:49,146 - INFO - Risk classification completed
+2026-03-12 23:05:49,187 - INFO - Pipeline completed successfully
+2026-03-12 23:05:56,823 - INFO - Pipeline started
+2026-03-12 23:05:57,127 - INFO - Pump data simulated
+2026-03-12 23:05:57,135 - INFO - Daily fuel aggregated
+2026-03-12 23:05:57,281 - INFO - Operational components simulated
+2026-03-12 23:05:57,302 - INFO - Expected cash computed
+2026-03-12 23:05:57,305 - INFO - Actual cash simulated
+2026-03-12 23:05:57,309 - INFO - Statistical anomalies detected
+2026-03-12 23:05:57,312 - INFO - Features engineered
+2026-03-12 23:06:01,238 - INFO - Isolation Forest executed
+2026-03-12 23:06:01,241 - INFO - Risk classification completed
+2026-03-12 23:06:01,268 - INFO - Pipeline completed successfully
+2026-03-12 23:06:40,370 - INFO - Pipeline started
+2026-03-12 23:06:40,400 - INFO - Pump data simulated
+2026-03-12 23:06:40,406 - INFO - Daily fuel aggregated
+2026-03-12 23:06:40,451 - INFO - Operational components simulated
+2026-03-12 23:06:40,462 - INFO - Expected cash computed
+2026-03-12 23:06:40,465 - INFO - Actual cash simulated
+2026-03-12 23:06:40,467 - INFO - Statistical anomalies detected
+2026-03-12 23:06:40,468 - INFO - Features engineered
+2026-03-12 23:06:41,887 - INFO - Isolation Forest executed
+2026-03-12 23:06:41,889 - INFO - Risk classification completed
+2026-03-12 23:06:41,903 - INFO - Pipeline completed successfully
+2026-03-12 23:07:21,915 - INFO - Pipeline started
+2026-03-12 23:07:21,938 - INFO - Pump data simulated
+2026-03-12 23:07:21,941 - INFO - Daily fuel aggregated
+2026-03-12 23:07:21,985 - INFO - Operational components simulated
+2026-03-12 23:07:21,997 - INFO - Expected cash computed
+2026-03-12 23:07:21,998 - INFO - Actual cash simulated
+2026-03-12 23:07:21,999 - INFO - Statistical anomalies detected
+2026-03-12 23:07:22,000 - INFO - Features engineered
+2026-03-12 23:07:23,273 - INFO - Isolation Forest executed
+2026-03-12 23:07:23,275 - INFO - Risk classification completed
+2026-03-12 23:07:23,286 - INFO - Pipeline completed successfully
+2026-03-12 23:38:25,048 - INFO - Pipeline started
+2026-03-12 23:38:25,063 - INFO - Pump data simulated
+2026-03-12 23:38:25,066 - INFO - Daily fuel aggregated
+2026-03-12 23:38:25,097 - INFO - Operational components simulated
+2026-03-12 23:38:25,103 - INFO - Expected cash computed
+2026-03-12 23:38:25,104 - INFO - Actual cash simulated
+2026-03-12 23:38:25,105 - INFO - Statistical anomalies detected
+2026-03-12 23:38:25,106 - INFO - Features engineered
+2026-03-12 23:38:26,030 - INFO - Isolation Forest executed
+2026-03-12 23:38:26,031 - INFO - Risk classification completed
+2026-03-12 23:38:26,040 - INFO - Pipeline completed successfully
+2026-03-12 23:49:37,919 - INFO - Pipeline started
+2026-03-12 23:49:37,963 - INFO - Pump data simulated
+2026-03-12 23:49:37,968 - INFO - Daily fuel aggregated
+2026-03-12 23:49:38,084 - INFO - Operational components simulated
+2026-03-12 23:49:38,100 - INFO - Expected cash computed
+2026-03-12 23:49:38,102 - INFO - Actual cash simulated
+2026-03-12 23:49:38,105 - INFO - Statistical anomalies detected
+2026-03-12 23:49:38,108 - INFO - Features engineered
+2026-03-12 23:49:41,344 - INFO - Isolation Forest executed
+2026-03-12 23:49:41,347 - INFO - Risk classification completed
+2026-03-12 23:49:41,370 - INFO - Pipeline completed successfully
+2026-03-13 00:03:19,115 - INFO - Pipeline started
+2026-03-13 00:03:19,142 - INFO - Pump data simulated
+2026-03-13 00:03:19,145 - INFO - Daily fuel aggregated
+2026-03-13 00:03:19,193 - INFO - Operational components simulated
+2026-03-13 00:03:19,201 - INFO - Expected cash computed
+2026-03-13 00:03:19,202 - INFO - Actual cash simulated
+2026-03-13 00:03:19,204 - INFO - Statistical anomalies detected
+2026-03-13 00:03:19,205 - INFO - Features engineered
+2026-03-13 00:03:20,547 - INFO - Isolation Forest executed
+2026-03-13 00:03:20,549 - INFO - Risk classification completed
+2026-03-13 00:03:20,560 - INFO - Pipeline started
+2026-03-13 00:03:20,584 - INFO - Pump data simulated
+2026-03-13 00:03:20,585 - INFO - Pipeline completed successfully
+2026-03-13 00:03:20,620 - INFO - Daily fuel aggregated
+2026-03-13 00:03:20,667 - INFO - Operational components simulated
+2026-03-13 00:03:20,706 - INFO - Expected cash computed
+2026-03-13 00:03:20,708 - INFO - Actual cash simulated
+2026-03-13 00:03:20,709 - INFO - Statistical anomalies detected
+2026-03-13 00:03:20,710 - INFO - Features engineered
+2026-03-13 00:03:22,115 - INFO - Isolation Forest executed
+2026-03-13 00:03:22,116 - INFO - Risk classification completed
+2026-03-13 00:03:22,129 - INFO - Pipeline completed successfully
+2026-03-13 00:08:28,445 - INFO - Pipeline started
+2026-03-13 00:08:28,472 - INFO - Pump data simulated
+2026-03-13 00:08:28,476 - INFO - Daily fuel aggregated
+2026-03-13 00:08:28,517 - INFO - Operational components simulated
+2026-03-13 00:08:28,532 - INFO - Expected cash computed
+2026-03-13 00:08:28,534 - INFO - Actual cash simulated
+2026-03-13 00:08:28,537 - INFO - Statistical anomalies detected
+2026-03-13 00:08:28,538 - INFO - Features engineered
+2026-03-13 00:08:29,883 - INFO - Isolation Forest executed
+2026-03-13 00:08:29,884 - INFO - Risk classification completed
+2026-03-13 00:08:29,896 - INFO - Pipeline completed successfully
+2026-03-13 00:12:36,834 - INFO - Pipeline started
+2026-03-13 00:12:36,856 - INFO - Pump data simulated
+2026-03-13 00:12:36,858 - INFO - Daily fuel aggregated
+2026-03-13 00:12:36,893 - INFO - Operational components simulated
+2026-03-13 00:12:36,903 - INFO - Expected cash computed
+2026-03-13 00:12:36,904 - INFO - Actual cash simulated
+2026-03-13 00:12:36,905 - INFO - Statistical anomalies detected
+2026-03-13 00:12:36,906 - INFO - Features engineered
+2026-03-13 00:12:38,181 - INFO - Isolation Forest executed
+2026-03-13 00:12:38,182 - INFO - Risk classification completed
+2026-03-13 00:12:38,194 - INFO - Pipeline completed successfully
+2026-03-13 00:13:54,980 - INFO - Pipeline started
+2026-03-13 00:13:55,122 - INFO - Pump data simulated
+2026-03-13 00:13:55,146 - INFO - Daily fuel aggregated
+2026-03-13 00:13:55,337 - INFO - Operational components simulated
+2026-03-13 00:13:55,370 - INFO - Expected cash computed
+2026-03-13 00:13:55,373 - INFO - Actual cash simulated
+2026-03-13 00:13:55,379 - INFO - Statistical anomalies detected
+2026-03-13 00:13:55,383 - INFO - Features engineered
+2026-03-13 00:14:00,080 - INFO - Isolation Forest executed
+2026-03-13 00:14:00,087 - INFO - Risk classification completed
+2026-03-13 00:14:00,132 - INFO - Pipeline completed successfully
+2026-03-13 00:15:10,043 - INFO - Pipeline started
+2026-03-13 00:15:10,063 - INFO - Pump data simulated
+2026-03-13 00:15:10,066 - INFO - Daily fuel aggregated
+2026-03-13 00:15:10,110 - INFO - Operational components simulated
+2026-03-13 00:15:10,118 - INFO - Expected cash computed
+2026-03-13 00:15:10,119 - INFO - Actual cash simulated
+2026-03-13 00:15:10,121 - INFO - Statistical anomalies detected
+2026-03-13 00:15:10,122 - INFO - Features engineered
+2026-03-13 00:15:11,386 - INFO - Isolation Forest executed
+2026-03-13 00:15:11,388 - INFO - Risk classification completed
+2026-03-13 00:15:11,399 - INFO - Pipeline completed successfully
+2026-03-13 00:18:54,157 - INFO - Pipeline started
+2026-03-13 00:18:54,185 - INFO - Pump data simulated
+2026-03-13 00:18:54,188 - INFO - Daily fuel aggregated
+2026-03-13 00:18:54,241 - INFO - Operational components simulated
+2026-03-13 00:18:54,250 - INFO - Expected cash computed
+2026-03-13 00:18:54,251 - INFO - Actual cash simulated
+2026-03-13 00:18:54,253 - INFO - Statistical anomalies detected
+2026-03-13 00:18:54,255 - INFO - Features engineered
+2026-03-13 00:18:55,566 - INFO - Isolation Forest executed
+2026-03-13 00:18:55,567 - INFO - Risk classification completed
+2026-03-13 00:18:55,580 - INFO - Pipeline completed successfully
+2026-03-13 00:20:30,315 - INFO - Pipeline started
+2026-03-13 00:20:30,337 - INFO - Pump data simulated
+2026-03-13 00:20:30,340 - INFO - Daily fuel aggregated
+2026-03-13 00:20:30,380 - INFO - Operational components simulated
+2026-03-13 00:20:30,389 - INFO - Expected cash computed
+2026-03-13 00:20:30,390 - INFO - Actual cash simulated
+2026-03-13 00:20:30,392 - INFO - Statistical anomalies detected
+2026-03-13 00:20:30,393 - INFO - Features engineered
+2026-03-13 00:20:31,697 - INFO - Isolation Forest executed
+2026-03-13 00:20:31,699 - INFO - Risk classification completed
+2026-03-13 00:20:31,711 - INFO - Pipeline completed successfully
+2026-03-13 00:21:33,655 - INFO - Pipeline started
+2026-03-13 00:21:33,676 - INFO - Pump data simulated
+2026-03-13 00:21:33,678 - INFO - Daily fuel aggregated
+2026-03-13 00:21:33,713 - INFO - Operational components simulated
+2026-03-13 00:21:33,722 - INFO - Expected cash computed
+2026-03-13 00:21:33,723 - INFO - Actual cash simulated
+2026-03-13 00:21:33,725 - INFO - Statistical anomalies detected
+2026-03-13 00:21:33,726 - INFO - Features engineered
+2026-03-13 00:21:35,035 - INFO - Isolation Forest executed
+2026-03-13 00:21:35,037 - INFO - Risk classification completed
+2026-03-13 00:21:35,050 - INFO - Pipeline completed successfully
+2026-03-13 00:23:05,871 - INFO - Pipeline started
+2026-03-13 00:23:05,951 - INFO - Pump data simulated
+2026-03-13 00:23:05,961 - INFO - Daily fuel aggregated
+2026-03-13 00:23:06,218 - INFO - Operational components simulated
+2026-03-13 00:23:06,263 - INFO - Expected cash computed
+2026-03-13 00:23:06,266 - INFO - Actual cash simulated
+2026-03-13 00:23:06,273 - INFO - Statistical anomalies detected
+2026-03-13 00:23:06,278 - INFO - Features engineered
+2026-03-13 00:23:11,910 - INFO - Isolation Forest executed
+2026-03-13 00:23:11,915 - INFO - Risk classification completed
+2026-03-13 00:23:11,946 - INFO - Pipeline completed successfully
+2026-03-13 00:23:23,921 - INFO - Pipeline started
+2026-03-13 00:23:23,988 - INFO - Pump data simulated
+2026-03-13 00:23:23,995 - INFO - Daily fuel aggregated
+2026-03-13 00:23:24,206 - INFO - Operational components simulated
+2026-03-13 00:23:24,238 - INFO - Expected cash computed
+2026-03-13 00:23:24,242 - INFO - Actual cash simulated
+2026-03-13 00:23:24,246 - INFO - Statistical anomalies detected
+2026-03-13 00:23:24,251 - INFO - Features engineered
+2026-03-13 00:23:29,325 - INFO - Isolation Forest executed
+2026-03-13 00:23:29,330 - INFO - Risk classification completed
+2026-03-13 00:23:29,365 - INFO - Pipeline completed successfully
+2026-03-13 00:28:28,883 - INFO - Pipeline started
+2026-03-13 00:28:28,906 - INFO - Pump data simulated
+2026-03-13 00:28:28,909 - INFO - Daily fuel aggregated
+2026-03-13 00:28:28,954 - INFO - Operational components simulated
+2026-03-13 00:28:28,965 - INFO - Expected cash computed
+2026-03-13 00:28:28,966 - INFO - Actual cash simulated
+2026-03-13 00:28:28,967 - INFO - Statistical anomalies detected
+2026-03-13 00:28:28,968 - INFO - Features engineered
+2026-03-13 00:28:30,249 - INFO - Isolation Forest executed
+2026-03-13 00:28:30,251 - INFO - Risk classification completed
+2026-03-13 00:28:30,264 - INFO - Pipeline completed successfully
+2026-03-13 00:28:59,336 - INFO - Pipeline started
+2026-03-13 00:28:59,399 - INFO - Pump data simulated
+2026-03-13 00:28:59,406 - INFO - Daily fuel aggregated
+2026-03-13 00:28:59,639 - INFO - Operational components simulated
+2026-03-13 00:28:59,669 - INFO - Expected cash computed
+2026-03-13 00:28:59,672 - INFO - Actual cash simulated
+2026-03-13 00:28:59,677 - INFO - Statistical anomalies detected
+2026-03-13 00:28:59,681 - INFO - Features engineered
+2026-03-13 00:29:04,834 - INFO - Isolation Forest executed
+2026-03-13 00:29:04,837 - INFO - Risk classification completed
+2026-03-13 00:29:04,864 - INFO - Pipeline completed successfully
+2026-03-13 00:33:20,920 - INFO - Pipeline started
+2026-03-13 00:33:20,941 - INFO - Pump data simulated
+2026-03-13 00:33:20,943 - INFO - Daily fuel aggregated
+2026-03-13 00:33:20,980 - INFO - Operational components simulated
+2026-03-13 00:33:20,987 - INFO - Expected cash computed
+2026-03-13 00:33:20,988 - INFO - Actual cash simulated
+2026-03-13 00:33:20,989 - INFO - Statistical anomalies detected
+2026-03-13 00:33:20,990 - INFO - Features engineered
+2026-03-13 00:33:22,365 - INFO - Isolation Forest executed
+2026-03-13 00:33:22,366 - INFO - Risk classification completed
+2026-03-13 00:33:22,377 - INFO - Pipeline completed successfully
+2026-03-13 00:33:41,728 - INFO - Pipeline started
+2026-03-13 00:33:41,795 - INFO - Pump data simulated
+2026-03-13 00:33:41,803 - INFO - Daily fuel aggregated
+2026-03-13 00:33:42,003 - INFO - Operational components simulated
+2026-03-13 00:33:42,026 - INFO - Expected cash computed
+2026-03-13 00:33:42,029 - INFO - Actual cash simulated
+2026-03-13 00:33:42,032 - INFO - Statistical anomalies detected
+2026-03-13 00:33:42,036 - INFO - Features engineered
+2026-03-13 00:33:46,738 - INFO - Isolation Forest executed
+2026-03-13 00:33:46,742 - INFO - Risk classification completed
+2026-03-13 00:33:46,772 - INFO - Pipeline completed successfully
+2026-03-13 00:35:33,558 - INFO - Pipeline started
+2026-03-13 00:35:33,575 - INFO - Pump data simulated
+2026-03-13 00:35:33,578 - INFO - Daily fuel aggregated
+2026-03-13 00:35:33,612 - INFO - Operational components simulated
+2026-03-13 00:35:33,620 - INFO - Expected cash computed
+2026-03-13 00:35:33,620 - INFO - Actual cash simulated
+2026-03-13 00:35:33,622 - INFO - Statistical anomalies detected
+2026-03-13 00:35:33,623 - INFO - Features engineered
+2026-03-13 00:35:34,923 - INFO - Isolation Forest executed
+2026-03-13 00:35:34,926 - INFO - Risk classification completed
+2026-03-13 00:35:34,940 - INFO - Pipeline completed successfully
+2026-03-13 00:39:35,084 - INFO - Pipeline started
+2026-03-13 00:39:35,164 - INFO - Pump data simulated
+2026-03-13 00:39:35,173 - INFO - Daily fuel aggregated
+2026-03-13 00:39:35,449 - INFO - Operational components simulated
+2026-03-13 00:39:35,488 - INFO - Expected cash computed
+2026-03-13 00:39:35,494 - INFO - Actual cash simulated
+2026-03-13 00:39:35,506 - INFO - Statistical anomalies detected
+2026-03-13 00:39:35,514 - INFO - Features engineered
+2026-03-13 00:39:41,575 - INFO - Isolation Forest executed
+2026-03-13 00:39:41,579 - INFO - Risk classification completed
+2026-03-13 00:39:41,610 - INFO - Pipeline completed successfully
+2026-03-13 00:40:41,497 - INFO - Pipeline started
+2026-03-13 00:40:41,570 - INFO - Pump data simulated
+2026-03-13 00:40:41,577 - INFO - Daily fuel aggregated
+2026-03-13 00:40:41,782 - INFO - Operational components simulated
+2026-03-13 00:40:41,811 - INFO - Expected cash computed
+2026-03-13 00:40:41,814 - INFO - Actual cash simulated
+2026-03-13 00:40:41,818 - INFO - Statistical anomalies detected
+2026-03-13 00:40:41,822 - INFO - Features engineered
+2026-03-13 00:40:47,435 - INFO - Isolation Forest executed
+2026-03-13 00:40:47,440 - INFO - Risk classification completed
+2026-03-13 00:40:47,472 - INFO - Pipeline completed successfully
+2026-03-13 00:48:15,012 - INFO - Pipeline started
+2026-03-13 00:48:15,083 - INFO - Pump data simulated
+2026-03-13 00:48:15,090 - INFO - Daily fuel aggregated
+2026-03-13 00:48:15,338 - INFO - Operational components simulated
+2026-03-13 00:48:15,370 - INFO - Expected cash computed
+2026-03-13 00:48:15,374 - INFO - Actual cash simulated
+2026-03-13 00:48:15,380 - INFO - Statistical anomalies detected
+2026-03-13 00:48:15,386 - INFO - Features engineered
+2026-03-13 00:48:17,570 - INFO - Isolation Forest executed
+2026-03-13 00:48:17,572 - INFO - Risk classification completed
+2026-03-13 00:48:17,584 - INFO - Pipeline completed successfully
+2026-03-13 00:48:51,605 - INFO - Pipeline started
+2026-03-13 00:48:51,625 - INFO - Pump data simulated
+2026-03-13 00:48:51,627 - INFO - Daily fuel aggregated
+2026-03-13 00:48:51,665 - INFO - Operational components simulated
+2026-03-13 00:48:51,676 - INFO - Expected cash computed
+2026-03-13 00:48:51,677 - INFO - Actual cash simulated
+2026-03-13 00:48:51,679 - INFO - Statistical anomalies detected
+2026-03-13 00:48:51,680 - INFO - Features engineered
+2026-03-13 00:48:53,016 - INFO - Isolation Forest executed
+2026-03-13 00:48:53,018 - INFO - Risk classification completed
+2026-03-13 00:48:53,030 - INFO - Pipeline completed successfully
+2026-03-13 00:49:38,010 - INFO - Pipeline started
+2026-03-13 00:49:38,031 - INFO - Pump data simulated
+2026-03-13 00:49:38,034 - INFO - Daily fuel aggregated
+2026-03-13 00:49:38,070 - INFO - Operational components simulated
+2026-03-13 00:49:38,080 - INFO - Expected cash computed
+2026-03-13 00:49:38,081 - INFO - Actual cash simulated
+2026-03-13 00:49:38,082 - INFO - Statistical anomalies detected
+2026-03-13 00:49:38,084 - INFO - Features engineered
+2026-03-13 00:49:39,418 - INFO - Isolation Forest executed
+2026-03-13 00:49:39,419 - INFO - Risk classification completed
+2026-03-13 00:49:39,435 - INFO - Pipeline completed successfully
+2026-03-13 00:50:55,758 - INFO - Pipeline started
+2026-03-13 00:50:55,830 - INFO - Pump data simulated
+2026-03-13 00:50:55,838 - INFO - Daily fuel aggregated
+2026-03-13 00:50:56,012 - INFO - Operational components simulated
+2026-03-13 00:50:56,034 - INFO - Expected cash computed
+2026-03-13 00:50:56,037 - INFO - Actual cash simulated
+2026-03-13 00:50:56,040 - INFO - Statistical anomalies detected
+2026-03-13 00:50:56,043 - INFO - Features engineered
+2026-03-13 00:51:00,632 - INFO - Isolation Forest executed
+2026-03-13 00:51:00,637 - INFO - Risk classification completed
+2026-03-13 00:51:00,679 - INFO - Pipeline completed successfully
+2026-03-13 00:52:05,132 - INFO - Pipeline started
+2026-03-13 00:52:05,151 - INFO - Pump data simulated
+2026-03-13 00:52:05,154 - INFO - Daily fuel aggregated
+2026-03-13 00:52:05,198 - INFO - Operational components simulated
+2026-03-13 00:52:05,205 - INFO - Expected cash computed
+2026-03-13 00:52:05,206 - INFO - Actual cash simulated
+2026-03-13 00:52:05,207 - INFO - Statistical anomalies detected
+2026-03-13 00:52:05,209 - INFO - Features engineered
+2026-03-13 00:52:06,569 - INFO - Isolation Forest executed
+2026-03-13 00:52:06,570 - INFO - Risk classification completed
+2026-03-13 00:52:06,585 - INFO - Pipeline completed successfully
+2026-03-13 00:56:37,587 - INFO - Pipeline started
+2026-03-13 00:56:37,627 - INFO - Pump data simulated
+2026-03-13 00:56:37,631 - INFO - Daily fuel aggregated
+2026-03-13 00:56:37,682 - INFO - Operational components simulated
+2026-03-13 00:56:37,689 - INFO - Expected cash computed
+2026-03-13 00:56:37,690 - INFO - Actual cash simulated
+2026-03-13 00:56:37,692 - INFO - Statistical anomalies detected
+2026-03-13 00:56:37,693 - INFO - Features engineered
+2026-03-13 00:56:38,978 - INFO - Isolation Forest executed
+2026-03-13 00:56:38,980 - INFO - Risk classification completed
+2026-03-13 00:56:38,992 - INFO - Pipeline completed successfully
+2026-03-13 01:00:43,091 - INFO - Pipeline started
+2026-03-13 01:00:43,117 - INFO - Pump data simulated
+2026-03-13 01:00:43,121 - INFO - Daily fuel aggregated
+2026-03-13 01:00:43,171 - INFO - Operational components simulated
+2026-03-13 01:00:43,183 - INFO - Expected cash computed
+2026-03-13 01:00:43,185 - INFO - Actual cash simulated
+2026-03-13 01:00:43,186 - INFO - Statistical anomalies detected
+2026-03-13 01:00:43,187 - INFO - Features engineered
+2026-03-13 01:00:44,616 - INFO - Isolation Forest executed
+2026-03-13 01:00:44,617 - INFO - Risk classification completed
+2026-03-13 01:00:44,629 - INFO - Pipeline completed successfully
+2026-03-13 01:01:57,368 - INFO - Pipeline started
+2026-03-13 01:01:57,394 - INFO - Pump data simulated
+2026-03-13 01:01:57,397 - INFO - Daily fuel aggregated
+2026-03-13 01:01:57,440 - INFO - Operational components simulated
+2026-03-13 01:01:57,453 - INFO - Expected cash computed
+2026-03-13 01:01:57,455 - INFO - Actual cash simulated
+2026-03-13 01:01:57,456 - INFO - Statistical anomalies detected
+2026-03-13 01:01:57,459 - INFO - Features engineered
+2026-03-13 01:01:58,893 - INFO - Isolation Forest executed
+2026-03-13 01:01:58,897 - INFO - Risk classification completed
+2026-03-13 01:01:58,924 - INFO - Pipeline completed successfully
+2026-03-13 01:03:06,590 - INFO - Pipeline started
+2026-03-13 01:03:06,649 - INFO - Pump data simulated
+2026-03-13 01:03:06,654 - INFO - Daily fuel aggregated
+2026-03-13 01:03:06,797 - INFO - Operational components simulated
+2026-03-13 01:03:06,819 - INFO - Expected cash computed
+2026-03-13 01:03:06,822 - INFO - Actual cash simulated
+2026-03-13 01:03:06,825 - INFO - Statistical anomalies detected
+2026-03-13 01:03:06,828 - INFO - Features engineered
+2026-03-13 01:03:09,210 - INFO - Isolation Forest executed
+2026-03-13 01:03:09,211 - INFO - Risk classification completed
+2026-03-13 01:03:09,222 - INFO - Pipeline completed successfully
+2026-03-14 22:24:50,070 - INFO - Pipeline started
+2026-03-14 22:24:50,109 - INFO - Pump data simulated
+2026-03-14 23:26:49,962 - INFO - Pipeline started
+2026-03-14 23:26:50,028 - INFO - Pump data simulated
+2026-03-14 23:26:50,046 - INFO - Daily fuel aggregated
+2026-03-14 23:26:50,216 - INFO - Operational components simulated
+2026-03-14 23:26:50,264 - INFO - Expected cash computed
+2026-03-14 23:26:50,269 - INFO - Actual cash simulated
+2026-03-14 23:26:50,325 - INFO - Statistical anomalies detected
+2026-03-14 23:26:50,330 - INFO - Features engineered
+2026-03-14 23:26:56,911 - INFO - Isolation Forest executed
+2026-03-14 23:26:56,915 - INFO - Risk classification completed
+2026-03-14 23:26:56,948 - INFO - Pipeline completed successfully
+2026-03-14 23:37:41,388 - INFO - Pipeline started
+2026-03-14 23:37:41,410 - INFO - Pump data simulated
+2026-03-14 23:38:42,328 - INFO - Pipeline started
+2026-03-14 23:38:42,353 - INFO - Pump data simulated
+2026-03-14 23:38:42,359 - INFO - Daily fuel aggregated
+2026-03-14 23:38:42,406 - INFO - Operational components simulated
+2026-03-14 23:38:42,416 - INFO - Expected cash computed
+2026-03-14 23:38:42,418 - INFO - Actual cash simulated
+2026-03-14 23:38:42,426 - INFO - Statistical anomalies detected
+2026-03-14 23:38:42,427 - INFO - Features engineered
+2026-03-14 23:38:44,293 - INFO - Isolation Forest executed
+2026-03-14 23:38:44,295 - INFO - Risk classification completed
+2026-03-14 23:38:44,295 - INFO - Pipeline completed successfully
+2026-03-15 00:04:16,098 - INFO - Pipeline started
+2026-03-15 00:04:16,112 - INFO - Pump data simulated
+2026-03-15 00:04:16,115 - INFO - Daily fuel aggregated
+2026-03-15 00:04:16,147 - INFO - Operational components simulated
+2026-03-15 00:04:16,154 - INFO - Expected cash computed
+2026-03-15 00:04:16,155 - INFO - Actual cash simulated
+2026-03-15 00:04:16,164 - INFO - Statistical anomalies detected
+2026-03-15 00:04:16,165 - INFO - Features engineered
+2026-03-15 00:04:17,351 - INFO - Isolation Forest executed
+2026-03-15 00:04:17,352 - INFO - Risk classification completed
+2026-03-15 00:04:17,352 - INFO - Pipeline completed successfully
+2026-03-15 00:09:13,845 - INFO - Pipeline started
+2026-03-15 00:09:13,859 - INFO - Pump data simulated
+2026-03-15 00:09:13,862 - INFO - Daily fuel aggregated
+2026-03-15 00:09:13,891 - INFO - Operational components simulated
+2026-03-15 00:09:13,898 - INFO - Expected cash computed
+2026-03-15 00:09:13,899 - INFO - Actual cash simulated
+2026-03-15 00:09:13,909 - INFO - Statistical anomalies detected
+2026-03-15 00:09:13,910 - INFO - Features engineered
+2026-03-15 00:09:15,179 - INFO - Isolation Forest executed
+2026-03-15 00:09:15,180 - INFO - Risk classification completed
+2026-03-15 00:09:15,180 - INFO - Pipeline completed successfully
+2026-03-15 00:09:32,918 - INFO - Pipeline started
+2026-03-15 00:09:32,933 - INFO - Pump data simulated
+2026-03-15 00:09:32,937 - INFO - Daily fuel aggregated
+2026-03-15 00:09:32,968 - INFO - Operational components simulated
+2026-03-15 00:09:32,976 - INFO - Expected cash computed
+2026-03-15 00:09:32,977 - INFO - Actual cash simulated
+2026-03-15 00:09:32,995 - INFO - Statistical anomalies detected
+2026-03-15 00:09:32,997 - INFO - Features engineered
+2026-03-15 00:09:34,459 - INFO - Isolation Forest executed
+2026-03-15 00:09:34,460 - INFO - Risk classification completed
+2026-03-15 00:09:34,460 - INFO - Pipeline completed successfully
+2026-03-15 00:11:16,331 - INFO - Pipeline started
+2026-03-15 00:11:16,346 - INFO - Pump data simulated
+2026-03-15 00:11:16,350 - INFO - Daily fuel aggregated
+2026-03-15 00:11:16,382 - INFO - Operational components simulated
+2026-03-15 00:11:16,390 - INFO - Expected cash computed
+2026-03-15 00:11:16,391 - INFO - Actual cash simulated
+2026-03-15 00:19:20,254 - INFO - Pipeline started
+2026-03-15 00:19:20,269 - INFO - Pump data simulated
+2026-03-15 00:19:20,274 - INFO - Daily fuel aggregated
+2026-03-15 00:19:20,309 - INFO - Operational components simulated
+2026-03-15 00:19:20,322 - INFO - Expected cash computed
+2026-03-15 00:19:20,323 - INFO - Actual cash simulated
+2026-03-15 00:19:20,338 - INFO - Fraud Scenarios Injected
+2026-03-15 00:19:20,339 - INFO - Statistical anomalies detected
+2026-03-15 00:19:20,340 - INFO - Features engineered
+2026-03-15 00:19:21,702 - INFO - Isolation Forest executed
+2026-03-15 00:19:21,703 - INFO - Risk classification completed
+2026-03-15 00:19:21,704 - INFO - Pipeline completed successfully
+2026-03-21 22:35:35,403 - INFO - Pipeline started
+2026-03-21 22:35:35,433 - INFO - Pump data simulated
+2026-03-21 22:35:35,442 - INFO - Daily fuel aggregated
+2026-03-21 22:35:35,478 - INFO - Operational components simulated
+2026-03-21 22:35:35,488 - INFO - Expected cash computed
+2026-03-21 22:35:35,489 - INFO - Actual cash simulated
+2026-03-21 22:35:35,505 - INFO - Fraud Scenarios Injected
+2026-03-21 22:35:35,508 - INFO - Statistical anomalies detected
+2026-03-21 22:35:35,510 - INFO - Features engineered
+2026-03-21 22:35:37,032 - INFO - Isolation Forest executed
+2026-03-21 22:35:37,034 - INFO - Risk classification completed
+2026-03-21 22:35:37,034 - INFO - Pipeline completed successfully
+2026-03-21 22:57:53,491 - INFO - Pipeline started
+2026-03-21 22:57:53,508 - INFO - Pump data simulated
+2026-03-21 22:57:53,512 - INFO - Daily fuel aggregated
+2026-03-21 22:57:53,547 - INFO - Operational components simulated
+2026-03-21 22:57:53,555 - INFO - Expected cash computed
+2026-03-21 22:57:53,556 - INFO - Actual cash simulated
+2026-03-21 22:57:53,571 - INFO - Fraud Scenarios Injected
+2026-03-21 22:57:53,572 - INFO - Statistical anomalies detected
+2026-03-21 22:57:53,574 - INFO - Features engineered
+2026-03-21 22:57:55,232 - INFO - Isolation Forest executed
+2026-03-21 22:57:55,234 - INFO - Risk classification completed
+2026-03-21 22:57:55,235 - INFO - Pipeline completed successfully
+2026-03-21 23:20:50,536 - INFO - Pipeline started
+2026-03-21 23:20:50,554 - INFO - Pump data simulated
+2026-03-21 23:20:50,559 - INFO - Daily fuel aggregated
+2026-03-21 23:20:50,594 - INFO - Operational components simulated
+2026-03-21 23:20:50,602 - INFO - Expected cash computed
+2026-03-21 23:20:50,604 - INFO - Actual cash simulated
+2026-03-21 23:20:50,620 - INFO - Fraud Scenarios Injected
+2026-03-21 23:20:50,622 - INFO - Statistical anomalies detected
+2026-03-21 23:20:50,623 - INFO - Features engineered
+2026-03-21 23:20:51,954 - INFO - Isolation Forest executed
+2026-03-21 23:20:51,955 - INFO - Risk classification completed
+2026-03-21 23:20:51,955 - INFO - Pipeline completed successfully
+2026-03-21 23:25:32,712 - INFO - Pipeline started
+2026-03-21 23:25:32,731 - INFO - Pump data simulated
+2026-03-21 23:25:32,735 - INFO - Daily fuel aggregated
+2026-03-21 23:25:32,775 - INFO - Operational components simulated
+2026-03-21 23:25:32,783 - INFO - Expected cash computed
+2026-03-21 23:25:32,784 - INFO - Actual cash simulated
+2026-03-21 23:25:32,802 - INFO - Fraud Scenarios Injected
+2026-03-21 23:25:32,803 - INFO - Statistical anomalies detected
+2026-03-21 23:25:32,804 - INFO - Features engineered
+2026-03-21 23:25:34,413 - INFO - Isolation Forest executed
+2026-03-21 23:25:34,414 - INFO - Risk classification completed
+2026-03-21 23:25:34,414 - INFO - Pipeline completed successfully
+2026-03-22 00:49:30,704 - INFO - Pipeline started
+2026-03-22 00:49:30,733 - INFO - Pump data simulated
+2026-03-22 00:49:30,742 - INFO - Daily fuel aggregated
+2026-03-22 00:49:30,799 - INFO - Operational components simulated
+2026-03-22 00:49:30,816 - INFO - Expected cash computed
+2026-03-22 00:49:30,818 - INFO - Actual cash simulated
+2026-03-22 00:49:30,837 - INFO - Fraud Scenarios Injected
+2026-03-22 00:49:30,841 - INFO - Statistical anomalies detected
+2026-03-22 00:49:30,844 - INFO - Features engineered
+2026-03-22 00:49:32,471 - INFO - Isolation Forest executed
+2026-03-22 00:49:32,474 - INFO - Risk classification completed
+2026-03-22 00:49:32,474 - INFO - Pipeline completed successfully
+2026-03-23 20:54:39,919 - INFO - Pipeline started
+2026-03-23 20:54:39,977 - INFO - Pump data simulated
+2026-03-23 20:54:39,991 - INFO - Daily fuel aggregated
+2026-03-23 20:54:40,106 - INFO - Operational components simulated
+2026-03-23 20:54:40,129 - INFO - Expected cash computed
+2026-03-23 20:54:40,131 - INFO - Actual cash simulated
+2026-03-23 20:54:40,180 - INFO - Fraud Scenarios Injected
+2026-03-23 20:54:40,185 - INFO - Statistical anomalies detected
+2026-03-23 20:54:40,190 - INFO - Features engineered
+2026-03-23 20:54:44,438 - INFO - Isolation Forest executed
+2026-03-23 20:54:44,441 - INFO - Risk classification completed
+2026-03-23 20:54:44,441 - INFO - Pipeline completed successfully
+2026-03-23 21:03:26,887 - INFO - Pipeline started
+2026-03-23 21:03:26,905 - INFO - Pump data simulated
+2026-03-23 21:03:26,908 - INFO - Daily fuel aggregated
+2026-03-23 21:03:26,943 - INFO - Operational components simulated
+2026-03-23 21:03:26,950 - INFO - Expected cash computed
+2026-03-23 21:03:26,950 - INFO - Actual cash simulated
+2026-03-23 21:03:26,964 - INFO - Fraud Scenarios Injected
+2026-03-23 21:03:26,965 - INFO - Statistical anomalies detected
+2026-03-23 21:03:26,966 - INFO - Features engineered
+2026-03-23 21:09:52,693 - INFO - Pipeline started
+2026-03-23 21:09:52,716 - INFO - Pump data simulated
+2026-03-23 21:09:52,720 - INFO - Daily fuel aggregated
+2026-03-23 21:09:52,756 - INFO - Operational components simulated
+2026-03-23 21:09:52,763 - INFO - Expected cash computed
+2026-03-23 21:09:52,764 - INFO - Actual cash simulated
+2026-03-23 21:09:52,777 - INFO - Fraud Scenarios Injected
+2026-03-23 21:09:52,778 - INFO - Statistical anomalies detected
+2026-03-23 21:09:52,780 - INFO - Features engineered
+2026-03-23 21:09:54,029 - INFO - Isolation Forest executed
+2026-03-23 21:09:54,030 - INFO - Risk classification completed
+2026-03-23 21:09:54,030 - INFO - Pipeline completed successfully
+2026-03-23 21:13:53,418 - INFO - Pipeline started
+2026-03-23 21:13:53,444 - INFO - Pump data simulated
+2026-03-23 21:13:53,450 - INFO - Daily fuel aggregated
+2026-03-23 21:13:53,484 - INFO - Operational components simulated
+2026-03-23 21:13:53,491 - INFO - Expected cash computed
+2026-03-23 21:13:53,492 - INFO - Actual cash simulated
+2026-03-23 21:13:53,506 - INFO - Fraud Scenarios Injected
+2026-03-23 21:13:53,507 - INFO - Statistical anomalies detected
+2026-03-23 21:13:53,508 - INFO - Features engineered
+2026-03-23 21:13:54,697 - INFO - Isolation Forest executed
+2026-03-23 21:13:54,699 - INFO - Risk classification completed
+2026-03-23 21:13:54,699 - INFO - Pipeline completed successfully
+2026-03-23 21:20:49,394 - INFO - Pipeline started
+2026-03-23 21:20:49,410 - INFO - Pump data simulated
+2026-03-23 21:20:49,413 - INFO - Daily fuel aggregated
+2026-03-23 21:20:49,454 - INFO - Operational components simulated
+2026-03-23 21:20:49,461 - INFO - Expected cash computed
+2026-03-23 21:20:49,461 - INFO - Actual cash simulated
+2026-03-23 21:20:49,478 - INFO - Fraud Scenarios Injected
+2026-03-23 21:20:49,479 - INFO - Statistical anomalies detected
+2026-03-23 21:20:49,480 - INFO - Features engineered
+2026-03-23 21:20:50,875 - INFO - Isolation Forest executed
+2026-03-23 21:20:50,876 - INFO - Risk classification completed
+2026-03-23 21:20:50,877 - INFO - Pipeline completed successfully
+2026-03-23 21:23:59,769 - INFO - Pipeline started
+2026-03-23 21:23:59,786 - INFO - Pump data simulated
+2026-03-23 21:23:59,789 - INFO - Daily fuel aggregated
+2026-03-23 21:23:59,824 - INFO - Operational components simulated
+2026-03-23 21:23:59,832 - INFO - Expected cash computed
+2026-03-23 21:23:59,833 - INFO - Actual cash simulated
+2026-03-23 21:23:59,849 - INFO - Fraud Scenarios Injected
+2026-03-23 21:23:59,850 - INFO - Statistical anomalies detected
+2026-03-23 21:23:59,852 - INFO - Features engineered
+2026-03-23 21:24:01,138 - INFO - Isolation Forest executed
+2026-03-23 21:24:01,139 - INFO - Risk classification completed
+2026-03-23 21:24:01,140 - INFO - Pipeline completed successfully
+2026-03-23 21:36:25,941 - INFO - Pipeline started
+2026-03-23 21:36:25,955 - INFO - Pump data simulated
+2026-03-23 21:36:25,959 - INFO - Daily fuel aggregated
+2026-03-23 21:36:25,990 - INFO - Operational components simulated
+2026-03-23 21:36:25,997 - INFO - Expected cash computed
+2026-03-23 21:36:25,998 - INFO - Actual cash simulated
+2026-03-23 21:36:26,011 - INFO - Fraud Scenarios Injected
+2026-03-23 21:36:26,012 - INFO - Statistical anomalies detected
+2026-03-23 21:36:26,014 - INFO - Features engineered
+2026-03-23 21:36:27,051 - INFO - Isolation Forest executed
+2026-03-23 21:36:27,054 - INFO - Risk classification completed
+2026-03-23 21:36:27,054 - INFO - Pipeline completed successfully
+2026-03-23 21:37:18,173 - INFO - Pipeline started
+2026-03-23 21:37:18,192 - INFO - Pump data simulated
+2026-03-23 21:37:18,198 - INFO - Daily fuel aggregated
+2026-03-23 21:37:18,247 - INFO - Operational components simulated
+2026-03-23 21:37:18,256 - INFO - Expected cash computed
+2026-03-23 21:37:18,257 - INFO - Actual cash simulated
+2026-03-23 21:37:18,274 - INFO - Fraud Scenarios Injected
+2026-03-23 21:37:18,275 - INFO - Statistical anomalies detected
+2026-03-23 21:37:18,277 - INFO - Features engineered
+2026-03-23 21:37:19,828 - INFO - Isolation Forest executed
+2026-03-23 21:37:19,831 - INFO - Risk classification completed
+2026-03-23 21:37:19,831 - INFO - Pipeline completed successfully
+2026-03-26 00:48:09,343 - INFO - Pipeline started
+2026-03-26 00:48:09,373 - INFO - Pump data simulated
+2026-03-26 00:48:09,381 - INFO - Daily fuel aggregated
+2026-03-26 00:48:09,421 - INFO - Operational components simulated
+2026-03-26 00:48:09,432 - INFO - Expected cash computed
+2026-03-26 00:48:09,433 - INFO - Actual cash simulated
+2026-03-26 00:48:09,454 - INFO - Fraud Scenarios Injected
+2026-03-26 00:48:09,456 - INFO - Statistical anomalies detected
+2026-03-26 00:48:09,458 - INFO - Features engineered
+2026-03-26 00:48:11,133 - INFO - Isolation Forest executed
+2026-03-26 00:48:11,136 - INFO - Risk classification completed
+2026-03-26 00:48:11,136 - INFO - Pipeline completed successfully

@@ -17,3 +17,718 @@ Autoencoder
 
 joblib, os libraries
 pkl file
+
+stratify and resample methods
+
+confusion matrix
+🧠 🔥 CORE TERMS YOU MUST KNOW (PROJECT LANGUAGE)
+
+I grouped them so your brain doesn’t explode.
+
+📊 1. DATA & STRUCTURE TERMS
+Dataset
+Feature
+Label / Target
+Row (Observation)
+Column (Variable)
+You MUST know:
+Dataset → all your data (your CSV)
+Feature → input variable (cash_gap, gasoline…)
+Label → what you predict (fraud_type)
+Observation → one day
+Tabular Data
+Time Series
+Structured Data
+Tabular → rows & columns (your case)
+Time Series → ordered by time (date)
+Structured → clean format (not images/text)
+🧠 2. DATA GENERATION & SIMULATION
+Simulation
+Synthetic Data
+Stochastic Process
+Noise
+Random Sampling
+Distribution
+Meanings:
+Simulation → creating fake realistic data
+Synthetic Data → artificial dataset
+Noise → randomness (imperfections)
+Random Sampling → picking random rows
+Distribution → how values spread
+🧠 3. BUSINESS / DOMAIN TERMS
+Revenue
+Cash Flow
+Inventory
+Operational Metrics
+Fraud Scenario
+Cash Gap → expected vs actual difference
+Operational Metrics → fuel, services, etc.
+Fraud Scenario → simulated abnormal event
+🤖 4. MACHINE LEARNING CORE TERMS
+🔹 Learning Types
+Supervised Learning
+Unsupervised Learning
+Supervised → has labels (Random Forest)
+Unsupervised → no labels (Isolation Forest)
+🔹 Model Terms
+Model
+Training
+Inference
+Prediction
+Model → algorithm that learns
+Training → learning from data
+Inference → using model after training
+Prediction → output
+🌲 5. RANDOM FOREST TERMS
+Decision Tree
+Ensemble Learning
+Bagging
+Voting
+Overfitting
+Decision Tree → rule-based splits
+Ensemble → many models together
+Bagging → random subsets
+Voting → trees decide together
+Overfitting → memorizing instead of learning
+🧠 6. ANOMALY DETECTION TERMS
+Anomaly
+Outlier
+Isolation
+Anomaly Score
+Contamination
+Anomaly → unusual data point
+Outlier → extreme value
+Isolation → separating anomalies
+Anomaly Score → how weird it is
+Contamination → % of anomalies expected
+⚖️ 7. CLASS IMBALANCE TERMS
+Class Imbalance
+Minority Class
+Majority Class
+Resampling
+Oversampling
+Undersampling
+Class Weight
+Imbalance → uneven classes
+Minority → fraud
+Majority → normal
+Oversampling → duplicate minority
+Undersampling → reduce majority
+Class weight → penalize imbalance
+📈 8. EVALUATION METRICS (CRITICAL)
+Accuracy
+Precision
+Recall
+F1 Score
+Confusion Matrix
+Meanings:
+Accuracy → overall correctness
+Precision → how correct fraud predictions are
+Recall → how many frauds you caught
+F1 → balance
+🔥 MOST IMPORTANT:
+False Positive
+False Negative
+False Positive → normal flagged as fraud
+False Negative → fraud missed (VERY BAD)
+🧠 9. FEATURE ENGINEERING TERMS
+Feature Engineering
+Derived Feature
+Ratio
+Normalization
+Scaling
+Feature Engineering → creating useful inputs
+Derived Feature → new from old (cash_gap)
+Ratio → relationships (service/fuel)
+Scaling → adjusting values
+📊 10. STATISTICS TERMS
+Mean
+Median
+Standard Deviation
+Z-score
+Robust Z-score
+MAD (Median Absolute Deviation)
+Important:
+Z-score → how far from average
+Robust Z-score → handles outliers better
+MAD → robust variability
+🧠 11. PIPELINE TERMS
+Data Pipeline
+Workflow
+ETL (Extract Transform Load)
+Automation
+Modular Design
+Pipeline → step-by-step system
+ETL → data processing flow
+Modular → split into components
+🧠 12. BACKEND / API TERMS
+API
+Endpoint
+Request
+Response
+JSON
+FastAPI
+API → communication layer
+Endpoint → route (/predictions)
+Request → user asks
+Response → system returns data
+📊 13. DASHBOARD TERMS
+Visualization
+Plot
+Line Chart
+Bar Chart
+Pie Chart
+Interactive UI
+🔍 14. EXPLAINABILITY (XAI)
+Explainability (XAI)
+Feature Importance
+Interpretability
+SHAP (future)
+XAI → explain model decisions
+Feature Importance → what influenced prediction
+🧠 15. DEBUGGING TERMS
+Bug
+Exception
+Traceback
+Null / None
+Shape Mismatch
+Traceback → error log
+NoneType → missing data
+Shape mismatch → wrong sizes
+⚙️ 16. ENGINEERING TERMS
+Logging
+Monitoring
+Model Persistence
+Deployment
+Logging → track execution
+Monitoring → track performance
+Persistence → save model
+Deployment → make usable
+🔥 FINAL CORE SET (MEMORIZE THIS)
+
+If you only remember ONE block:
+
+Dataset
+Feature
+Label
+Supervised vs Unsupervised
+Anomaly
+Outlier
+Class Imbalance
+Precision / Recall
+Feature Engineering
+Pipeline
+API
+Dashboard
+Explainability
+🚀 🔥 ADVANCED TERMS YOU SHOULD ADD
+🧠 17. DATA QUALITY & REAL-WORLD ISSUES
+Data Drift
+Concept Drift
+Data Leakage
+Missing Data
+Outliers (Statistical vs Business)
+You MUST know:
+Data Drift → input data distribution changes over time
+Concept Drift → relationship between features & target changes
+Data Leakage → using future info (VERY BAD)
+Missing Data → NaN handling
+
+👉 Interview GOLD:
+
+"In production, performance drops mostly due to data drift, not model quality"
+🧠 18. MODEL GENERALIZATION
+Generalization
+Overfitting
+Underfitting
+Bias-Variance Tradeoff
+Generalization → performs well on unseen data
+Overfitting → memorizes training data
+Underfitting → too simple
+🧠 19. TRAINING PROCESS
+Train/Test Split
+Validation Set
+Cross Validation
+Stratification
+Train/Test → evaluate fairly
+Stratified Split → preserve class distribution
+Cross-validation → multiple splits (stronger evaluation)
+🧠 20. FEATURE IMPORTANCE & MODEL BEHAVIOR
+Feature Importance
+Permutation Importance
+Model Explainability
+Local vs Global Explanation
+Global → overall behavior
+Local → per prediction (your case)
+🧠 21. THRESHOLDS & DECISION LOGIC
+Threshold
+Decision Boundary
+Calibration
+Threshold → when do we say fraud?
+Decision Boundary → model separation line
+
+👉 VERY IMPORTANT in fraud:
+
+You control risk using thresholds
+🧠 22. PROBABILISTIC THINKING
+Probability
+Confidence Score
+Uncertainty
+Model doesn’t say “yes/no”
+It says:
+"I’m 87% confident this is fraud"
+🧠 23. PIPELINE / PRODUCTION TERMS (VERY IMPORTANT)
+Batch Processing
+Real-Time (Streaming)
+Latency
+Scalability
+Batch → daily processing (your system)
+Real-time → instant fraud detection
+Latency → response speed
+Scalability → handle large data
+🧠 24. MODEL LIFECYCLE
+Model Training
+Model Deployment
+Model Monitoring
+Model Retraining
+
+👉 Real systems:
+
+Train → Deploy → Monitor → Retrain
+🧠 25. VERSIONING (BIG TECH LEVEL)
+Model Versioning
+Data Versioning
+Experiment Tracking
+Keep track of:
+v1 model vs v2 model
+🧠 26. LOGGING & OBSERVABILITY
+Logs
+Metrics
+Alerts
+Monitoring Dashboard
+Logs → what happened
+Metrics → performance
+Alerts → something broke
+🧠 27. FEATURE DISTRIBUTION AWARENESS
+Skewness
+Distribution Shift
+Normalization vs Standardization
+Skewed data affects model
+Normalization → [0,1]
+Standardization → mean 0, std 1
+🧠 28. EVALUATION IN FRAUD SYSTEMS (VERY IMPORTANT)
+Cost-Sensitive Learning
+Risk Scoring
+False Negative Cost
+False Positive Cost
+
+👉 REALITY:
+
+Missing fraud = MUCH worse than false alarm
+🧠 29. SYSTEM DESIGN TERMS (THIS IS WHAT MAKES YOU ELITE)
+End-to-End System
+Data Pipeline
+Modular Architecture
+Separation of Concerns
+You already did this without realizing it
+🧠 30. AI SYSTEM TERMS (VERY HIGH LEVEL)
+Decision System
+AI Pipeline
+Data-Centric AI
+Model-Centric AI
+
+👉 BIG INSIGHT:
+
+Your project = DATA-CENTRIC SYSTEM
+🧠 31. ERROR ANALYSIS (VERY IMPORTANT)
+Error Analysis
+Failure Cases
+Model Weakness
+
+👉 Example:
+
+Model fails on pump_manipulation → fix features
+🧠 32. FEATURE SIGNALS
+Signal vs Noise
+Feature Importance
+Correlation
+Signal → useful info
+Noise → useless randomness
+🧠 33. CORRELATION & RELATIONSHIPS
+Correlation
+Causation (IMPORTANT DIFFERENCE)
+Correlation ≠ causation
+Your model uses correlation only
+🧠 34. DATA VALIDATION (PRO LEVEL)
+Data Integrity
+Constraints
+Sanity Checks
+
+You already did:
+
+assert liters >= 0
+
+👉 That’s PRO behavior.
+
+🧠 35. SYSTEM OUTPUT TERMS
+Prediction Output
+Risk Score
+Confidence Score
+Explainability Output
+🔥 FINAL ELITE SET (ADD THESE TO YOUR MEMORY)
+
+If you combine everything:
+
+Data Drift
+Overfitting / Underfitting
+Generalization
+Threshold
+Probability
+Feature Importance
+Cross Validation
+Scalability
+Latency
+Model Lifecycle
+Cost-Sensitive Learning
+Error Analysis
+Signal vs Noise
+Correlation vs Causation
+Yes — but now we’re entering the **last layer**: the stuff that makes you sound like someone who has *worked on real systems*, not just built one.
+
+These are not just “extra terms” — these are **mindset + hidden concepts** most people miss.
+
+---
+
+# 🔥 🧠 FINAL LAYER (THE DIFFERENCE MAKERS)
+
+---
+
+# 1. ⚠️ DATA ≠ REALITY
+
+```text
+Synthetic Data Bias
+Simulation Gap
+```
+
+👉 Meaning:
+
+* Your data is **fake but structured**
+* Real world is:
+
+```text
+messy, missing, inconsistent, human errors
+```
+
+👉 You must be able to say:
+
+```text
+"My system works well on simulated data, but real deployment would require handling missing values, inconsistent logging, and noisy inputs."
+```
+
+---
+
+# 2. 🎯 BUSINESS VS MODEL MISALIGNMENT
+
+```text
+Business Objective
+Technical Objective
+```
+
+👉 Example:
+
+* Model goal:
+
+```text
+maximize accuracy
+```
+
+* Business goal:
+
+```text
+catch fraud early
+```
+
+👉 Insight:
+
+```text
+Best model ≠ best business solution
+```
+
+---
+
+# 3. ⚖️ TRADE-OFF THINKING (VERY IMPORTANT)
+
+```text
+Precision vs Recall Trade-off
+Speed vs Accuracy
+Complexity vs Interpretability
+```
+
+👉 You MUST understand:
+
+* High recall → more fraud caught BUT more false alarms
+* Simple model → easier to explain
+* Complex model → more accurate
+
+---
+
+# 4. 🧠 RULE-BASED VS ML
+
+```text
+Rule-Based System
+Machine Learning System
+Hybrid System
+```
+
+👉 YOU built:
+
+```text
+HYBRID SYSTEM
+```
+
+* Rules → inject fraud
+* ML → detect patterns
+
+👉 This is VERY strong.
+
+---
+
+# 5. 🧪 EXPERIMENTATION THINKING
+
+```text
+Experiment
+Baseline
+Iteration
+```
+
+👉 Example:
+
+```text
+Baseline = no balancing → bad results  
+Iteration = resampling → improved results
+```
+
+👉 You MUST think like:
+
+```text
+"I tested multiple approaches and improved performance"
+```
+
+---
+
+# 6. 📉 FAILURE UNDERSTANDING
+
+```text
+Failure Modes
+Edge Cases
+```
+
+👉 Example:
+
+```text
+Model fails on rare fraud types
+```
+
+👉 That’s NORMAL — not failure.
+
+---
+
+# 7. 🔍 DATA-CENTRIC THINKING (VERY IMPORTANT)
+
+```text
+Data-Centric AI
+Model-Centric AI
+```
+
+👉 Most beginners think:
+
+```text
+Better model = better results ❌
+```
+
+👉 Reality:
+
+```text
+Better data = better system ✅
+```
+
+👉 YOU already did this (without realizing it)
+
+---
+
+# 8. 🔄 FEEDBACK LOOP
+
+```text
+Feedback Loop
+Continuous Improvement
+```
+
+👉 Real systems:
+
+```text
+Predictions → errors → improve data → retrain
+```
+
+---
+
+# 9. ⚙️ SYSTEM RELIABILITY
+
+```text
+Robustness
+Stability
+Fault Tolerance
+```
+
+👉 Meaning:
+
+* System should not break easily
+* Should handle bad inputs
+
+---
+
+# 10. 📦 ABSTRACTION (VERY IMPORTANT)
+
+```text
+Abstraction
+Encapsulation
+```
+
+👉 Your project:
+
+```text
+src/
+    simulation.py
+    business_logic.py
+    fraud_model.py
+```
+
+👉 That is:
+
+```text
+MODULAR DESIGN
+```
+
+---
+
+# 11. 🔄 REPRODUCIBILITY
+
+```text
+Reproducibility
+Random Seed
+```
+
+👉 You used:
+
+```python
+np.random.seed(42)
+```
+
+👉 Meaning:
+
+```text
+Same results every run
+```
+
+---
+
+# 12. 🧠 THINKING LIKE A PROFESSIONAL
+
+This is the most important “term”:
+
+```text
+System Thinking
+```
+
+👉 Instead of:
+
+```text
+"I built a model"
+```
+
+👉 You think:
+
+```text
+"I built a full decision system"
+```
+
+---
+
+# 🔥 FINAL FINAL CORE (ULTIMATE SET)
+
+If you combine EVERYTHING:
+
+```text
+Data
+Features
+Labels
+Simulation
+Noise
+Anomaly
+Outlier
+Supervised vs Unsupervised
+Class Imbalance
+Precision / Recall
+Feature Engineering
+Pipeline
+API
+Dashboard
+Explainability
+Data Drift
+Overfitting
+Generalization
+Threshold
+Model Lifecycle
+Cost-Sensitive Learning
+Error Analysis
+Signal vs Noise
+System Design
+Trade-offs
+Data-Centric Thinking
+```
+
+---
+
+# 🧠 REAL FINAL TRUTH
+
+You are NOT expected to:
+
+```text
+memorize everything ❌
+```
+
+You ARE expected to:
+
+```text
+understand how things connect ✅
+```
+
+---
+
+# 🚀 Where you are now
+
+If you understand even **70% of this**:
+
+```text
+You are already ahead of most students applying to data roles
+```
+
+---
+
+# 🔥 If you want the FINAL step
+
+Now we can do the most powerful thing:
+
+```text
+Turn all this into:
+• CV bullets
+• Interview answers
+• Storytelling
+```
+
+Just say:
+
+```text
+final step
+```
+
+And we lock this into **career-level positioning** 🚀

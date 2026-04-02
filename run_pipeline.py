@@ -4,7 +4,11 @@ from src.control_layer import simulate_actual_cash
 from src.statistical_layer import apply_robust_zscore
 from src.anomaly_model import run_isolation_forest
 from src.features import create_features
-from src.evaluation import classify_risk
+from src.evaluation import classify_risk, plot_confusion_matrix
+from src.explainability import explain_anomalies
+from src.simulation import inject_fraud_scenarios
+from src.fraud_model import train_fraud_model
+from src.evaluation import evaluate_fraud_model
 import logging
 import os
 
@@ -44,21 +48,39 @@ def run_pipeline():
     final_df = simulate_actual_cash(final_df)
     logging.info("Actual cash simulated")
 
+    final_df = inject_fraud_scenarios(final_df)
+    logging.info("Fraud Scenarios Injected")
     final_df = apply_robust_zscore(final_df)
     logging.info("Statistical anomalies detected")
 
     final_df = create_features(final_df)
     logging.info("Features engineered")
 
-    final_df = run_isolation_forest(final_df)
+    final_df, model = run_isolation_forest(final_df)
+    fraud_model, y_test, y_pred = train_fraud_model(final_df)
+
+    features = [
+    "cash_gap",
+    "cash_gap_abs",
+    "fuel_total",
+    "service_ratio"
+]
+    shap_values = explain_anomalies(model, final_df, features)
+
+# identify the main feature driving the anomaly
+    final_df["top_anomaly_feature"] = shap_values.abs().idxmax(axis=1)
+
     logging.info("Isolation Forest executed")
 
     final_df = classify_risk(final_df)
     logging.info("Risk classification completed")
 
     logging.info("Pipeline completed successfully")
+    plot_confusion_matrix(y_test, y_pred)
+    final_df.to_csv("data/predictions.csv", index=False)
+
+    evaluation_results = evaluate_fraud_model(y_test, y_pred)
 
     return final_df
-    final_df.to_csv("data/predictions.csv", index=False)
 if __name__ == "__main__":
     run_pipeline()

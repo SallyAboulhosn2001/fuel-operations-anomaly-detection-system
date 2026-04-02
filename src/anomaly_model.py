@@ -51,4 +51,4 @@ def run_isolation_forest(df):
     df["ml_anomaly_flag"] = preds == -1
     df["ml_score"] = model.decision_function(X)
 
-    return df
+    return df, model

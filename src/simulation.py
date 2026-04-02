@@ -90,5 +90,61 @@ def simulate_pump_data(days=365, start_date="2023-01-01", seed=42):
     for pump in fuel_df["pump_id"].unique():
         pump_data = fuel_df[fuel_df["pump_id"] == pump]
         assert (pump_data["closing_meter"].diff().fillna(1) >= 0).all()
-
     return fuel_df
+
+def inject_fraud_scenarios(df):
+
+    df = df.copy()
+
+    df["fraud_type"] = "normal"
+
+    # randomly choose days where fraud happens
+    fraud_indices = np.random.choice(df.index, size=int(len(df) * 0.05), replace=False)
+
+    for idx in fraud_indices:
+
+        scenario = np.random.choice([
+            "cash_theft",
+            "pump_malfunction",
+            "suspicious_service"
+        ])
+
+        if scenario == "cash_theft":
+
+            df.loc[idx, "actual_cash"] *= 0.75
+            df.loc[idx, "fraud_type"] = "cash_theft"
+
+        elif scenario == "pump_malfunction":
+
+            df.loc[idx, "gasoline"] *= 1.8
+            df.loc[idx, "fraud_type"] = "pump_malfunction"
+
+        elif scenario == "suspicious_service":
+
+            df.loc[idx, "service_revenue"] *= 3
+            df.loc[idx, "fraud_type"] = "suspicious_service"
+
+# simulate fraud scenarios
+
+    fraud_days = np.random.choice(df.index, size=int(len(df)*0.15), replace=False)
+
+    for i in fraud_days:
+
+        fraud_type = np.random.choice([
+            "cash_theft",
+            "pump_manipulation",
+            "service_fraud"
+    ])
+
+        if fraud_type == "cash_theft":
+            df.loc[i, "actual_cash"] -= np.random.uniform(300, 800)
+
+        elif fraud_type == "pump_manipulation":
+            df.loc[i, "gasoline"] *= np.random.uniform(0.7, 0.85)
+
+        elif fraud_type == "service_fraud":
+            df.loc[i, "service_revenue"] *= np.random.uniform(1.8, 2.5)
+
+        df.loc[i, "fraud_type"] = fraud_type
+
+    return df
